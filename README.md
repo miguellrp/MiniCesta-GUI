@@ -1,7 +1,7 @@
 # 🧺 Mini-programa de cesta de pedidos
 _Primer mini-programita con GUI para poner en práctica fundamentos básicos de Java Swing (JComponent, Layout, ActionListener...)._
 
-![Captura de pantalla del mini-programa "Tienda Pequeñita"](https://raw.githubusercontent.com/miguellrp/MiniCesta-GUI/main/Capturita_programa.png)
+<img src=https://raw.githubusercontent.com/miguellrp/MiniCesta-GUI/main/Capturita_programa.png width="504" height="484" />
 
 ## 📋 Requisitos
 * Se dispondrá de una lista determinada de productos que se podrán seleccionar y añadir al carrito.
